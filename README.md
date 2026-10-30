@@ -1,0 +1,2 @@
+# Intelligent-Multimodal-File-Organization-System-Using-Machine-Learning
+Developed an automated file organizer using SBERT for text, CLIP for images/videos, and a custom CNN for audio classification.  Applied agglomerative hierarchical clustering with cosine similarity and confidence-based grouping to organize files into content-based folders. The audio classifier achieved 97.29% validation accuracy.
