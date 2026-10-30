@@ -1,0 +1,152 @@
+=== RESTORED ORIGINAL LOGIC REPORT ===
+
+TYPE: DOCUMENT
+===================================
+FOLDER: Compiler_Design_Lab (21 files)
+  --> Compiler Design Lab ex2.doc
+  --> Compiler Design Lab Ex3 (1).doc
+  --> Compiler Design Lab Ex3.doc
+  --> Compiler Design Lab Ex4 (1).doc
+  --> Compiler Design Lab Ex4.doc
+  --> Compiler Design Lab Ex5.doc
+  --> Compiler Design Lab Ex6_1.doc
+  --> Compiler Design Lab Ex7  Ex8.doc
+  --> 22BCE5078_DataScience_DA1.pdf
+  --> 22BCE5078_DataScience_DA2_CGEE.pdf
+  --> zhao2021.pdf
+  --> Team4_Education and Employment from gender point of view.docx
+  --> saiyaara-entertainment-hindi-bollywood-box-office10.pdf
+  --> sample Lex Prgm2.doc
+  --> s11747-019-00710-5.pdf
+  --> Speech and Language Processing - Daniel Jurafsky.pdf
+  --> Eligibility+Criteria+-+Technical+Batch+2026.pdf
+  --> doc.pdf
+  --> Internship_Report_Protyush_Saha.docx
+  --> BCE497J PROJECT REPORT TEMPLATE -2025.docx
+  --> 2022.in2writing-1.5.pdf
+-------------------------
+FOLDER: Course_Modules (16 files)
+  --> BCSE307L - Module 1.pptx
+  --> BCSE307L - Module 2- upto CAT 1 portion.ppt
+  --> Module 4.pptx
+  --> Module 5.ppt
+  --> Module 5.pptx
+  --> Blue Purple Modern Animated Computer Science Presentation (1).pptx
+  --> Blue Purple Modern Animated Computer Science Presentation.pdf
+  --> Blue Purple Modern Animated Computer Science Presentation.pptx
+  --> Module 6 code generation_upd.ppt
+  --> DA1_E1_E2.pdf
+  --> Migrants_and_Refugees_Presentation.pptx
+  --> Module 4 -IC_upd.ppt
+  --> Module 7 TABLEAU.pptx
+  --> Module 6 GNU Octave.pptx
+  --> approved list.pdf
+  --> 22BCE5078_CH2025260100560_PE006.pdf
+-------------------------
+FOLDER: Internships_and_Placement (15 files)
+  --> Application Form For Internship.pdf
+  --> Internship-Form.pdf
+  --> 22BCE5078.pdf
+  --> ProtyushSaha_Internship_Certificate.pdf
+  --> Protyush_Internship_Certificate.pdf
+  --> Thesis.pdf
+  --> shortlist_mail.pdf
+  --> Internship_25000914.pdf
+  --> 09R-FAT schedule - Winter 2024-25.pdf
+  --> certifcate (examiners) internship.pdf
+  --> Chennai - Kolkata - Chennai (PS).pdf
+  --> dbs shortlist.xlsx
+  --> offerletter9161.pdf
+  --> Application Form For Internship.doc
+  --> Acceptance Letter.pdf
+-------------------------
+FOLDER: Surgeonify_Capstone (6 files)
+  --> protyushsaha97@gmail.com.pdf
+  --> resumes_684f45c3-728a-4f36-8ba9-f56ff6e41254_protyushsaha97@gmail.com-f31fb062-11e6-47a0-8b94-82fdebeaff8d-d228f808-5224-4688-99b5-dc68708dcf78-resume.pdf
+  --> NOC25GE68S1553904925.pdf
+  --> 2202.08029v1.pdf
+  --> PROJECT REPORT 22BCE5078.docx
+  --> 2311.06318v2.pdf
+-------------------------
+FOLDER: Users_Desktop (13 files)
+  --> Assignments - I _b.doc
+  --> Assignment_2_b.doc
+  --> my_first_report.pbix
+  --> Review 0 PPT Revised.pptx
+  --> pericles_1942479514.txt
+  --> d1178bd2-69e4-4e34-9196-e109a412d5d7
+  --> LOOPS IN FLOW GRAPH.ppt
+  --> Dummy_Sales_Data.xlsx
+  --> chamber_spinning.gif
+  --> conference-template-a4 (4).docx
+  --> album_2025-08-27_23-37-32.gif
+  --> bps1007da.pdf
+  --> Screenshot 2025-07-23 232258.pdf
+-------------------------
+FOLDER: Const_String (1 files)
+  --> Protyush CNS la.docx
+-------------------------
+FOLDER: University_Admin_and_FAT (6 files)
+  --> Winter Semester 2024-2025 - Revised Academic Calendar.pdf
+  --> Research paper template.docx
+  --> Conservation Geography.pdf
+  --> Course+Notes+-+Bayesian+Inference.pdf
+  --> Full Stack Question Paper - VIT.pdf
+  --> 22BCE5078_nptel_payment.pdf
+-------------------------
+FOLDER: Version_Details (1 files)
+  --> Eligibility+Criteria+-+Technical+Batch+2026.docx
+-------------------------
+FOLDER: Credit_Verification (1 files)
+  --> 22BCE5078_Credit_Verification_Form.docx
+-------------------------
+FOLDER: Matrix_Cipher (1 files)
+  --> 22BCE5078_MAT.docx
+-------------------------
+
+TYPE: IMAGE
+===================================
+FOLDER: Users_Desktop (16 files)
+  --> fig1.png
+  --> fig2.png
+  --> age_gender_progress_rating.png
+  --> gender_equality_importance_line_chart.png
+  --> challenges_vs_dropout.png
+  --> challenges_vs_dropout_final.png
+  --> chamber.png
+  --> chamber_rotated.png
+  --> Screenshot from 2025-08-14 09-28-05.png
+  --> fig3.png
+  --> gender_equality_flowchart.png
+  --> dropout_reasons_pie.png
+  --> ChatGPT Image Apr 13, 2025, 10_32_17 PM.png
+  --> Brilliant Amberis-Jofo.png
+  --> lwc56.png
+  --> dropout_reasons_pie_final.png
+-------------------------
+FOLDER: University_Admin_and_FAT (1 files)
+  --> payment_receipt.jpg
+-------------------------
+FOLDER: Internships_and_Placement (1 files)
+  --> certifcate (examiners) internship.jpg
+-------------------------
+
+TYPE: VIDEO
+===================================
+FOLDER: Surgeonify_Capstone (2 files)
+  --> eqa-xjva-zag (2025-04-26 11_47 GMT+5_30).mp4
+  --> wcg-jwoy-hdq (2025-04-26 11_20 GMT+5_30).mp4
+-------------------------
+FOLDER: University_Admin_and_FAT (5 files)
+  --> 28.Years.Later.2025.1080p.WEB-DL.English.ESubs.Vegamovies.is.mkv
+  --> Nosrefatu.2024.1080p.WEB-DL.x264.ESub-Vegamovies.is.mkv
+  --> Oppenheimer.2023.2160p.10bit.HDR.BluRay.6CH.x265.PSA.AlphaDL.mkv
+  --> Parasite (2019) 1080p HEVC BrRip Korean @TR_Moviez.mkv
+  --> Waepons.2025.1080p.WEB-DL.x264.6CH-Vegamovies.is.mkv
+-------------------------
+FOLDER: Users_Desktop (4 files)
+  --> chamber2_spinning.mp4
+  --> chamber_spinning.mp4
+  --> Untitled video - Made with Clipchamp.mp4
+  --> Valorant 2025.05.02 - 16.20.29.06.DVR.mp4
+-------------------------

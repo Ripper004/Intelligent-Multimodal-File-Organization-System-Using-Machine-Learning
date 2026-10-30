@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+
+.venv/
+venv/
+.env
+
+audio/audio_dataset/
+audio/Organized_Files/
+audio/Processed_Dataset/
+
+data/raw_files/
+organized_output/
